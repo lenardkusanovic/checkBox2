@@ -1,0 +1,10 @@
+C:\Users\Adminj\source\repos\kusanovicLenardCheckBox2\kusanovicLenardCheckBox2\bin\Debug\kusanovicLenardCheckBox2.exe.config
+C:\Users\Adminj\source\repos\kusanovicLenardCheckBox2\kusanovicLenardCheckBox2\bin\Debug\kusanovicLenardCheckBox2.exe
+C:\Users\Adminj\source\repos\kusanovicLenardCheckBox2\kusanovicLenardCheckBox2\bin\Debug\kusanovicLenardCheckBox2.pdb
+C:\Users\Adminj\source\repos\kusanovicLenardCheckBox2\kusanovicLenardCheckBox2\obj\Debug\kusanovicLenardCheckBox2.csprojAssemblyReference.cache
+C:\Users\Adminj\source\repos\kusanovicLenardCheckBox2\kusanovicLenardCheckBox2\obj\Debug\kusanovicLenardCheckBox2.Form1.resources
+C:\Users\Adminj\source\repos\kusanovicLenardCheckBox2\kusanovicLenardCheckBox2\obj\Debug\kusanovicLenardCheckBox2.Properties.Resources.resources
+C:\Users\Adminj\source\repos\kusanovicLenardCheckBox2\kusanovicLenardCheckBox2\obj\Debug\kusanovicLenardCheckBox2.csproj.GenerateResource.cache
+C:\Users\Adminj\source\repos\kusanovicLenardCheckBox2\kusanovicLenardCheckBox2\obj\Debug\kusanovicLenardCheckBox2.csproj.CoreCompileInputs.cache
+C:\Users\Adminj\source\repos\kusanovicLenardCheckBox2\kusanovicLenardCheckBox2\obj\Debug\kusanovicLenardCheckBox2.exe
+C:\Users\Adminj\source\repos\kusanovicLenardCheckBox2\kusanovicLenardCheckBox2\obj\Debug\kusanovicLenardCheckBox2.pdb
